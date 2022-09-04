@@ -75,7 +75,7 @@
 * Will you be using a PR review workflow?
   * Yes
 * How many people must review a PR?
-  * 2 team members. The team leader and the owner of the repository.
+  * 1 team member.
 * Who merges PRs?
   * Repository owner.
 * How often will you merge?
