@@ -1,6 +1,6 @@
 # Crafts 
 
-##Team 
+## Team 
 * Omar Al Ghonimat
 * Raghd Smadi
 * Laila Nouman
